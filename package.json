@@ -1,12 +1,10 @@
 {
   "name": "cloudfiles",
   "description": "A client implementation for Rackspace CloudFiles in node.js",
-  "version": "0.3.3",
-  "author": "Nodejitsu Inc. <info@nodejitsu.com>",
-  "maintainers": [
-    "indexzero <charlie@nodejitsu.com>",
-    "bmeck <bradley@nodejitsu.com>",
-    "indutny <fedor.indutny@gmail.com>"
+  "version": "0.3.4",
+  "author": "Charlie Robbins <charlie.robbins@gmail.com>",
+  "contributors": [
+    { "name": "Fedor Indutny", "email": "fedor.indutny@gmail.com" }
   ],
   "repository": {
     "type": "git",
